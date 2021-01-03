@@ -1,0 +1,15 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+.text {
+    font-size: 30px;
+    color: slategrey;
+}
+
+#text {
+    font-size: 20px;
+    color: blue;
+}
