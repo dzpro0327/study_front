@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b422808-0df0-43ff-acb3-839912ae4fc9" name="디폴트 변경 목록" comment="" />
+    <list default="true" id="8b422808-0df0-43ff-acb3-839912ae4fc9" name="디폴트 변경 목록" comment="">
+      <change afterPath="$PROJECT_DIR$/css/style02.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -52,7 +56,9 @@
       <workItem from="1609597961081" duration="565000" />
       <workItem from="1609645092801" duration="1690000" />
       <workItem from="1609725636318" duration="352000" />
-      <workItem from="1609726920473" duration="31000" />
+      <workItem from="1609726920473" duration="162000" />
+      <workItem from="1609942208099" duration="6000" />
+      <workItem from="1610355944798" duration="3069000" />
     </task>
     <task id="LOCAL-00001" summary="웹 스톰으로 깃 해보기">
       <created>1609598465548</created>
@@ -68,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609648850270</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1/4">
+      <created>1609726989450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609726989450</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="웹 스톰으로 깃 해보기" />
     <MESSAGE value="1/3" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/3" />
+    <MESSAGE value="1/4" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/4" />
   </component>
 </project>
