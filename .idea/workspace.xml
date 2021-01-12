@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b422808-0df0-43ff-acb3-839912ae4fc9" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style02.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style03.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac04.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style02.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style02.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,9 @@
       <workItem from="1609725636318" duration="352000" />
       <workItem from="1609726920473" duration="162000" />
       <workItem from="1609942208099" duration="6000" />
-      <workItem from="1610355944798" duration="3069000" />
+      <workItem from="1610355944798" duration="3342000" />
+      <workItem from="1610448772714" duration="117000" />
+      <workItem from="1610449105536" duration="1880000" />
     </task>
     <task id="LOCAL-00001" summary="웹 스톰으로 깃 해보기">
       <created>1609598465548</created>
@@ -81,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609726989450</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1/11">
+      <created>1610359756128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610359756128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +113,7 @@
     <MESSAGE value="웹 스톰으로 깃 해보기" />
     <MESSAGE value="1/3" />
     <MESSAGE value="1/4" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/4" />
+    <MESSAGE value="1/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/11" />
   </component>
 </project>

@@ -1,0 +1,59 @@
+.container {
+    border: 5px solid black;
+    width: 1200px;
+    margin: auto;
+    font-size: 30px;
+    font-style: initial;
+}
+
+header {
+    background-color: gray;
+    overflow: hidden;
+}
+
+header article {
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+}
+
+.logo {
+    float: left;
+}
+
+.news {
+    float: right;
+}
+
+.con1 {
+    background-color: darkorchid;
+    height: 300px;
+}
+
+.con2 {
+    background-color: sienna;
+    overflow: hidden;
+}
+
+.con2 article {
+    float: left;
+    width: 33.33333%;
+    height: 300px;
+}
+
+.sub1 {
+    background-color: #f46bff;
+}
+
+.sub2 {
+    background-color: aquamarine;
+}
+
+.sub3 {
+    background-color: crimson;
+}
+
+footer {
+    height: 100px;
+    background-color: #745858;
+}
