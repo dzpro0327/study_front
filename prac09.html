@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>제이쿼리 메서드</title>
+</head>
+<style>
+
+    .menu {
+        padding: 0;
+        list-style: none;
+        width: 200px;
+        /*        border: 1px solid black;*/
+    }
+
+    .menu li > a {
+        background-color: black;
+        color: white;
+        display: block;
+        text-align: center;
+        padding: 5px;
+        border: 1px solid #ddd;
+    }
+    .sub-menu {
+        border: 1px solid #000;
+        display: none;
+    }
+
+    .sub-menu a {
+        display: block;
+        text-align: center;
+        padding: 5px;
+    }
+
+</style>
+<body>
+    <ul class="menu">
+        <li>
+            <a href="#">MENU-1</a>
+            <div class="sub-menu">
+                <a href="#">SUB-MENU-1</a>
+                <a href="#">SUB-MENU-2</a>
+                <a href="#">SUB-MENU-3</a>
+                <a href="#">SUB-MENU-4</a>
+            </div>
+        </li>
+        <li>
+            <a href="#">MENU-2</a>
+            <div class="sub-menu">
+                <a href="#">SUB-MENU-1</a>
+                <a href="#">SUB-MENU-2</a>
+                <a href="#">SUB-MENU-3</a>
+                <a href="#">SUB-MENU-4</a>
+            </div>
+        </li>
+    </ul>
+
+    <script src="js/jquery-1.12.4.js"></script>
+    <script src="js/custom01.js"></script>
+</body>
+</html>

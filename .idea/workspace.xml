@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b422808-0df0-43ff-acb3-839912ae4fc9" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style04.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style05.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style06.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style07.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/custom01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac09.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -50,11 +46,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev_pro\front_end\study_front\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev_pro\front_end\study_front" />
     </key>
@@ -75,7 +74,8 @@
       <workItem from="1610355944798" duration="3342000" />
       <workItem from="1610448772714" duration="117000" />
       <workItem from="1610449105536" duration="1922000" />
-      <workItem from="1610497296014" duration="3913000" />
+      <workItem from="1610497296014" duration="3961000" />
+      <workItem from="1610561938838" duration="1802000" />
     </task>
     <task id="LOCAL-00001" summary="웹 스톰으로 깃 해보기">
       <created>1609598465548</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610451311865</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1/13">
+      <created>1610502774605</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610502774605</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +143,7 @@
     <MESSAGE value="1/4" />
     <MESSAGE value="1/11" />
     <MESSAGE value="1/12 HTML 시멘틱" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/12 HTML 시멘틱" />
+    <MESSAGE value="1/13" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/13" />
   </component>
 </project>
