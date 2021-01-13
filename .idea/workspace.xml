@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b422808-0df0-43ff-acb3-839912ae4fc9" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style03.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style04.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style05.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style06.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style07.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac08.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style02.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style02.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1mW8P8qdQCII4UqR5wyAUToY0xF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -61,7 +74,8 @@
       <workItem from="1609942208099" duration="6000" />
       <workItem from="1610355944798" duration="3342000" />
       <workItem from="1610448772714" duration="117000" />
-      <workItem from="1610449105536" duration="1880000" />
+      <workItem from="1610449105536" duration="1922000" />
+      <workItem from="1610497296014" duration="3913000" />
     </task>
     <task id="LOCAL-00001" summary="웹 스톰으로 깃 해보기">
       <created>1609598465548</created>
@@ -91,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610359756128</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1/12 HTML 시멘틱">
+      <created>1610451311865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610451311865</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +135,7 @@
     <MESSAGE value="1/3" />
     <MESSAGE value="1/4" />
     <MESSAGE value="1/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/11" />
+    <MESSAGE value="1/12 HTML 시멘틱" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/12 HTML 시멘틱" />
   </component>
 </project>

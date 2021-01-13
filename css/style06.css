@@ -1,0 +1,26 @@
+.nth {
+    border: 5px solid black;
+    text-align: center;
+}
+
+.nth div {
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+
+}
+
+.nth div:nth-of-type(1) {
+    background-color: dodgerblue;
+}
+.nth div:nth-of-type(2) {
+    background-color: red;
+}
+.nth div:nth-of-type(3) {
+    background-color: springgreen;
+}
+.nth div:nth-of-type(4) {
+    background-color: rebeccapurple;
+}

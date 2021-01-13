@@ -1,0 +1,27 @@
+.btn span {
+    border: 1px solid black;
+    border-radius: 5px 5px 0 0;
+    background-color: gray;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: -7px;
+    width: 120px;
+    text-align: center;
+}
+
+.tab-inner {
+    width: 400px;
+}
+
+.btn span:first-child {
+    background-color: red;
+}
+
+.tab a {
+    display: block;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+
+}

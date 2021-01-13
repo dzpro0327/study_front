@@ -1,0 +1,16 @@
+a {
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    width: 120px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    transition: 1s;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
