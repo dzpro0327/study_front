@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b422808-0df0-43ff-acb3-839912ae4fc9" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style08.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style09.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac15.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -78,7 +78,8 @@
       <workItem from="1610497296014" duration="3961000" />
       <workItem from="1610561938838" duration="1802000" />
       <workItem from="1610569423824" duration="60000" />
-      <workItem from="1610642677883" duration="2633000" />
+      <workItem from="1610642677883" duration="2676000" />
+      <workItem from="1610751460283" duration="4183000" />
     </task>
     <task id="LOCAL-00001" summary="웹 스톰으로 깃 해보기">
       <created>1609598465548</created>
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610569464721</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1/15">
+      <created>1610646027942</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610646027942</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +163,7 @@
     <MESSAGE value="1/12 HTML 시멘틱" />
     <MESSAGE value="1/13" />
     <MESSAGE value="1/14" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/14" />
+    <MESSAGE value="1/15" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/15" />
   </component>
 </project>
