@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b422808-0df0-43ff-acb3-839912ae4fc9" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style15.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style16.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/app-ui-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/app-ui-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/app-ui-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/app-ui-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/space-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/space-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/space-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style17.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style18.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac22.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -90,7 +83,8 @@
       <workItem from="1610751460283" duration="4328000" />
       <workItem from="1610944594401" duration="12000" />
       <workItem from="1610944616777" duration="4986000" />
-      <workItem from="1611010711881" duration="3170000" />
+      <workItem from="1611010711881" duration="3958000" />
+      <workItem from="1611100795889" duration="2803000" />
     </task>
     <task id="LOCAL-00001" summary="웹 스톰으로 깃 해보기">
       <created>1609598465548</created>
@@ -162,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610949598656</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1/19">
+      <created>1611014200628</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611014200628</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +192,7 @@
     <MESSAGE value="1/15" />
     <MESSAGE value="1/16" />
     <MESSAGE value="1/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/18" />
+    <MESSAGE value="1/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/19" />
   </component>
 </project>
